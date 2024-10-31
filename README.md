@@ -1,6 +1,13 @@
 # React + Vite
+A simple yet powerful app that generates secure, random passwords to keep your online accounts safe. This tool allows users to customize their passwords by choosing length, character types (uppercase, lowercase, numbers, symbols), and ensuring unique combinations for enhanced security. Perfect for anyone needing quick, reliable passwords for everyday use.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Customizable password length
+Options for including/excluding specific character types
+Instant password generation with one click
+User-friendly interface
+
+
 
 Currently, two official plugins are available:
 
